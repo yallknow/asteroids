@@ -2,6 +2,8 @@
 Asteroids with C++ and SFML
 
 <br/>
+<img src="https://i.postimg.cc/K8BhSrds/asteroids.jpg" />
+<br/>
 
 How to run:
 - **mkdir build**
